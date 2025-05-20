@@ -38,5 +38,5 @@ It demonstrates how to use controllers, HTML templates, and serve static images 
 
 1. **Clone the repository:**
    ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/mullllat7/java_task1.git)
+   git clone https://github.com/your-username/your-repo.git
    cd your-repo
